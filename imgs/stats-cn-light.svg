@@ -54,7 +54,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 94.2391037203588;
+        stroke-dashoffset: 127.62849492640416;
       }
     }
   
@@ -107,7 +107,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Geekertao&#26497;&#23458;&#26691; &#30340; GitHub &#32479;&#35745;&#25968;&#25454;</text>
+      >KinnerFisch &#30340; GitHub &#32479;&#35745;&#25968;&#25454;</text>
     </g>
       </g>
     
@@ -129,7 +129,7 @@
             dominant-baseline="central"
             text-anchor="middle"
           >
-            A++
+            A+
           </text>
         </g>
       </g>
@@ -144,7 +144,7 @@
         x="220" 
         y="12.5" 
         data-testid="stars"
-      >74</text>
+      >1</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -155,7 +155,7 @@
         x="220" 
         y="12.5" 
         data-testid="commits"
-      >4.2k</text>
+      >72</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -166,7 +166,7 @@
         x="220" 
         y="12.5" 
         data-testid="prs"
-      >8</text>
+      >2</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="220" 
         y="12.5" 
         data-testid="issues"
-      >14</text>
+      >3</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -188,7 +188,7 @@
         x="220" 
         y="12.5" 
         data-testid="contribs"
-      >14</text>
+      >2</text>
     </g>
   </g>
     </svg> 
